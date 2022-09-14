@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+
 # assembly-ai-pipe-and-transcript
 
 Piping videos from popular providers (Youtube, Vimeo, etc...) to the [AssemblyAI API](https://www.assemblyai.com/docs) to extract audio and get transcriptions.

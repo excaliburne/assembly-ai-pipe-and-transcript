@@ -1,0 +1,2 @@
+class WrongUrlForProviderError(BaseException):
+    pass

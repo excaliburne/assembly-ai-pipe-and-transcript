@@ -31,10 +31,10 @@ transcription = pipe.youtube.transcript(video_url=YOUTUBE_VIDEO_URL)
 transcription = pipe.youtube.transcript(video_url=YOUTUBE_VIDEO_URL, speaker_labels=True)
 
 # get response
-pipe.response
+transcription.response
 
 # get text
-pipe.text
+transcription.text
 ```
 
 ## Notes
